@@ -4,7 +4,6 @@ Warning i give not Support for this PmmP version! This version have Bugs i have 
 
 - Plugins we Texter, Topvoter, Slapper its working goog
 - Enchantment its Buggy
-- Food is a little bid Buggy
 
 # For 1.13.0 
 
