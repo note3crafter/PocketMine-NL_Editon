@@ -1,14 +1,13 @@
-# NoteLand
+# PocketMine-MP - NoteLand Edition
 
-Warning i give not Support for this PmmP version! This version have Bugs i have it testing on my Server!
+**Warning**: I don't help with problems in this version. It does contain bugs and is currently tested.
+- Plugins like Texter or Slapper aren't working
+- Enchanting is Buggy
 
-- Plugins we Texter, Topvoter, Slapper its working goog
-- Enchantment its Buggy
+# Minehub.de
 
-i give no Support for this version from PmmP
+Rename the file to PocketMine-MP-phar and pocketmine.phar to use it on a Minehub Gameserver
 
-# For 1.13.0 
+# Credits
 
-Rename the file to PocketMine-MP-phar and pocketmine.phar to use it on a Free/Pro Minehub Server
-
-This is a Fork from https://github.com/pmmp/PocketMine-MP 
+This is a Fork of https://github.com/pmmp/PocketMine-MP 
